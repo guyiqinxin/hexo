@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2023/02/01/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>《推拿》</title>
+    <url>/2023/03/04/%E3%80%8A%E6%8E%A8%E6%8B%BF%E3%80%8B/</url>
+    <content><![CDATA[<p>对面走来一个人，撞上了叫做爱情。<br>对面开来一辆车，撞上了叫车祸。<br>可惜车与车总是撞，人与人总是让。<br>——电影《推拿》</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>《旧时光的味道》</title>
+    <url>/2023/03/08/%E3%80%8A%E6%97%A7%E6%97%B6%E5%85%89%E7%9A%84%E5%91%B3%E9%81%93%E3%80%8B/</url>
+    <content><![CDATA[<p>10岁的快乐是清蒸，吃的是新鲜；<br>20岁的快乐是小炒，吃的是生猛；<br>30岁的快乐就已经是红烧，吃的是回味。<br>至于以后，便是五味杂陈、历久弥香的佛跳墙。<br>——许亿《旧时光的味道》</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>《肖申克的救赎》</title>
+    <url>/2023/03/03/%E3%80%8A%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E%E3%80%8B/</url>
+    <content><![CDATA[<p>开始你会抵触这些墙，然后你会习惯这些墙，最后你离不开这些墙。<br>——《肖申克的救赎》</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>世界上有2个我</title>
+    <url>/2023/02/07/%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%892%E4%B8%AA%E6%88%91/</url>
+    <content><![CDATA[<p>世界上有两个我，一个想回家，一个想远行。<br>一个举杯邀明月，一个跪地捡碎银。<br>一个青衣白马徐凤年，一个烟火人间轻声言。<br>一个在文字里，白马春衫慢慢行，一个在生活里，蝇营狗苟兀穷年。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>互证</title>
+    <url>/2023/03/05/%E4%BA%92%E8%AF%81/</url>
+    <content><![CDATA[<p>周五的存在意义，就是策划周末怎么过；而周末的存在意义，就是用晚睡晚起来证明周五的策划是没有意义的。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>人生与铅笔</title>
+    <url>/2023/03/06/%E4%BA%BA%E7%94%9F%E4%B8%8E%E9%93%85%E7%AC%94/</url>
+    <content><![CDATA[<p>人生就像铅笔，刚开始很尖，但慢慢地就被磨得圆滑了。<br>不过，等到太过圆滑时，就差不多又该挨削了。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>从此1</title>
+    <url>/2023/02/21/%E4%BB%8E%E6%AD%A41/</url>
+    <content><![CDATA[<p>从此寻花问柳，闭口不谈一生厮守。<br>从此红灯绿酒，再也不想牵谁的手。<br>从此人海漂流，闭口不谈爱到白头。<br>从此单打独斗，再也不会彻夜泪流。<br>从此放下离愁，生生世世酒敬自由。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>从此2</title>
+    <url>/2023/02/20/%E4%BB%8E%E6%AD%A42/</url>
+    <content><![CDATA[<p>从此泼墨煮茶，闭口不谈世间繁华。<br>从此安分守己，再也不说浪迹天涯。<br>从此人海逐流，闭口不谈相依为命，<br>从孑然一身，再也没有十里春风。<br>从此花天酒地，闭口不谈真心真意。<br>从此洒脱不羁，再也不想今世唯一。<br>从此莫念莫愁，闭口不言长相厮守。<br>从此清风配酒，路长水远我一人走。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>改变</title>
+    <url>/2023/03/03/%E6%94%B9%E5%8F%98/</url>
+    <content><![CDATA[<p>这世界既然每天都在变，所谓稳定，本身或许就是不存在的。<br>这世上唯一不变的就是改变本身，所以唯有每天努力奔波，才不会逆水行舟，不进则退。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>生命中的过客</title>
+    <url>/2023/02/19/%E7%94%9F%E5%91%BD%E4%B8%AD%E7%9A%84%E8%BF%87%E5%AE%A2/</url>
+    <content><![CDATA[<p>感激每个生命中的过客，因为是他们，让这个过程不孤单；<br>更需要感谢那些离开的人，因为离开就意味着这个人不对了，<br>至少这个时间不对了，既然如此，更意味着，上天有着更好的安排，<br>会有一个更对的人在不远处等你。只要，你还相信爱情。</p>
+]]></content>
+  </entry>
+</search>
