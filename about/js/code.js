@@ -83,7 +83,7 @@ html{
 /*具体信息还是以文字介绍吧*/
 `
     var markdown = window.markdown = `
-***MyHexo***
+***Hexo***
 
 ***主题***：Ayer     https://gitee.com/mirrors/ayer.git
 
@@ -96,6 +96,8 @@ html{
 ***码云***:https://gitee.com/chaoogg-new/chaoogg-new/tree/master
 
 ***感谢***:https://space.bilibili.com/82363089
+
+***文档***:https://shen-yu.gitee.io/2019/ayer/
 
 ***邮箱***：guyiqinxin\_chao@163.com
 
