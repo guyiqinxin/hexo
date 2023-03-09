@@ -1,12 +1,12 @@
 !function () {
     var cssCode = window.cssCode = `
-/*欢迎访问My Hexo个人博客
-请允许对我My Hexo做一个简单的介绍，但是纯文字太单调，所以我想来点特别的。
+/*欢迎访问ChaooGG的个人博客
+请允许我做一个简单的介绍，但是纯文字太单调，所以我想来点特别的。
 首先我准备一下样式。*/
 *{
 	transition: all .5s;
 }
-/*Hexo简介Hexo 是一个快速、简洁且高效的博客框架*/
+/*Hexo是一个快速、简洁且高效的博客框架*/
 html{
 	background: #333034;
 }
