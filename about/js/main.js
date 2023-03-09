@@ -1,5 +1,5 @@
 !function () {
-    let speed = 0
+    let speed = 20
 
     writeCode('', cssCode, () => {
         createPaper(() => {

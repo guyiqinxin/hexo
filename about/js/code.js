@@ -101,7 +101,7 @@ html{
 
 ***微信***：ChaooGG
 
-![RUNOOB 图标](https://afflatus-1309221527.cos.ap-nanjing.myqcloud.com/afflatus/wx-md.jpg)
+![微信二维码](https://afflatus-1309221527.cos.ap-nanjing.myqcloud.com/afflatus/wx-md.jpg)
 
 ***返回首页：https://chaoogg-new.gitee.io***
 `
