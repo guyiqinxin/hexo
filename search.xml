@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>《推拿》</title>
-    <url>/2023/03/04/%E3%80%8A%E6%8E%A8%E6%8B%BF%E3%80%8B/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>对面走来一个人，撞上了叫做爱情。<br>对面开来一辆车，撞上了叫车祸。<br>可惜车与车总是撞，人与人总是让。<br>——电影《推拿》</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2023/02/01/hello-world/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -39,7 +33,7 @@
   <entry>
     <title>《肖申克的救赎》</title>
     <url>/2023/03/03/%E3%80%8A%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E%E3%80%8B/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>开始你会抵触这些墙，然后你会习惯这些墙，最后你离不开这些墙。<br>——《肖申克的救赎》</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>开始你会抵触这些墙，然后你会习惯这些墙，最后你离不开这些墙。<br>——《肖申克的救赎》<br><img src="/images/xskdjs.jpg" alt="肖申克的救赎"> 	</p>
 ]]></content>
   </entry>
   <entry>
@@ -55,15 +49,9 @@
 ]]></content>
   </entry>
   <entry>
-    <title>从此1</title>
-    <url>/2023/02/21/%E4%BB%8E%E6%AD%A41/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>从此寻花问柳，闭口不谈一生厮守。<br>从此红灯绿酒，再也不想牵谁的手。<br>从此人海漂流，闭口不谈爱到白头。<br>从此单打独斗，再也不会彻夜泪流。<br>从此放下离愁，生生世世酒敬自由。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>从此2</title>
-    <url>/2023/02/20/%E4%BB%8E%E6%AD%A42/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>从此泼墨煮茶，闭口不谈世间繁华。<br>从此安分守己，再也不说浪迹天涯。<br>从此人海逐流，闭口不谈相依为命，<br>从孑然一身，再也没有十里春风。<br>从此花天酒地，闭口不谈真心真意。<br>从此洒脱不羁，再也不想今世唯一。<br>从此莫念莫愁，闭口不言长相厮守。<br>从此清风配酒，路长水远我一人走。</p>
+    <title>从此</title>
+    <url>/2023/02/20/%E4%BB%8E%E6%AD%A41/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>从此泼墨煮茶，闭口不谈世间繁华。<br>从此安分守己，再也不说浪迹天涯。<br>从此人海逐流，闭口不谈相依为命，<br>从此孑然一身，再也没有十里春风。<br>从此花天酒地，闭口不谈真心真意。<br>从此洒脱不羁，再也不想今世唯一。<br>从此莫念莫愁，闭口不言长相厮守。<br>从此清风配酒，路长水远我一人走。</p>
 ]]></content>
   </entry>
   <entry>
@@ -111,7 +99,7 @@
   <entry>
     <title>夜曲</title>
     <url>/2023/03/10/%E5%A4%9C%E6%9B%B2/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>#夜曲一响，上台领奖！</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>夜曲一响，上台领奖！</p>
 
 
 <div style="position: relative;width: 100%;height: 0;padding-bottom: 75%;">
@@ -122,6 +110,22 @@ allowfullscreen="true" style="position: absolute; width: 100%; height: 100%;left
 </div>
 
 
+]]></content>
+  </entry>
+  <entry>
+    <title>从此1</title>
+    <url>/2023/02/21/%E4%BB%8E%E6%AD%A4/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>从此寻花问柳，闭口不谈一生厮守。<br>从此红灯绿酒，再也不想牵谁的手。<br>从此人海漂流，闭口不谈爱到白头。<br>从此单打独斗，再也不会彻夜泪流。<br>从此放下离愁，生生世世酒敬自由。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>那年歌单</title>
+    <url>/2023/02/10/%E9%82%A3%E5%B9%B4%E6%AD%8C%E5%8D%95/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>网易云经典老歌</p>
+
+    <div id="aplayer-cwjeKUzB" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="1989683615" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"
+    ></div>
 ]]></content>
   </entry>
 </search>
